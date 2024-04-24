@@ -94,7 +94,19 @@ La aplicación genera automáticamente un código QR asociado a tu tarjeta de pr
   
 - Conexión a internet para compartir la tarjeta de presentación
 
+&nbsp;
+## Créditos
+
+- **Desarrollador**: [Carlos Valencia Sánchez]
+- **Diseñador de App**: [Carlos Valencia Sánchez]
+- **Artista Gráfico**: [Carlos Valencia Sánchez]
+
+&nbsp;
+## Contacto
+
+Para obtener soporte técnico, reportar errores o proporcionar comentarios, no dudes en contactar.
+
 ¡Esperamos que disfrutes utilizando la Tarjeta de Presentación App para crear tus propias tarjetas de presentación únicas y profesionales!
 
 ---
-**Nota:** Esta es una descripción general de la funcionalidad y contenido de la aplicación. Para obtener instrucciones detalladas sobre cómo utilizar cada característica, consulta la documentación incluida en la aplicación.
+Esta es una descripción general de la funcionalidad y contenido de la aplicación. Para obtener instrucciones detalladas sobre cómo utilizar cada característica, consulta la documentación incluida en la aplicación o comunícate con el desarrollador.
