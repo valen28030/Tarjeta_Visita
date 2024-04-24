@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TV</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="puesto_de_trabajo">Puesto de trabajo</string>
+    <string name="numero_de_telefono">Número de teléfono</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="direccion">Dirección</string>
+    <string name="crear_tarjeta_de_visita">Generar Tarjeta de Visita</string>
+    <string name="introduce_tus_datos">Introduce tus datos</string>
+    <string name="compartir">Compartir</string>
+    <string name="tu_tarjeta_de_visita">Tu tarjeta de visita</string>
+    <string name="tu_codigo_qr">Tu código QR</string>
+    <string name="qr">QR</string>
+    <string name="foto">Foto</string>
+    <string name="atras">Atras</string>
+</resources>
