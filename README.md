@@ -1,6 +1,7 @@
 # Tarjeta_Visita
 App diseñada para crear una tarjeta de visita a partir de los datos del usuario.
-
+<p> <strong>Android Studio.</strong></p>
+<p> <strong>Lenguajes: Java y XML.</strong></p>
 &nbsp;
 
 ## Descripción
