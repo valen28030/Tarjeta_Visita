@@ -38,7 +38,8 @@
         </ul>
         <p>&nbsp;</p>
  <p align="justify"><strong>Pantalla de Personalización de Diseño</strong></p>
-        <img src="https://github.com/valen28030/Tarjeta_Visita/assets/167770750/37b3f9e6-8edf-4817-b801-839fa1ce4d35" alt="Tarjeta de Presentación" width="300">
+  
+  <img src="https://github.com/valen28030/Tarjeta_Visita/assets/167770750/37b3f9e6-8edf-4817-b801-839fa1ce4d35" alt="Tarjeta de Presentación" width="300">
         <ul>
             <li>Opciones para personalizar el diseño de la tarjeta</li>
             <li>Selección de colores, fuentes y diseños predefinidos</li>
@@ -51,7 +52,8 @@
         </ul>
         <p>&nbsp;</p>
   <p align="justify"><strong>Pantalla de QR Personalizado</strong></p>
-        <img src="https://github.com/valen28030/Tarjeta_Visita/assets/167770750/a9bcabc3-592f-4edb-9ba2-60679ba9c425" alt="Tarjeta de Presentación" width="300">
+  
+<img src="https://github.com/valen28030/Tarjeta_Visita/assets/167770750/a9bcabc3-592f-4edb-9ba2-60679ba9c425" alt="Tarjeta de Presentación" width="300">  
         <ul>
             <li>Imagen del QR</li>
             <li>Botón de volver a la vista de la tarjeta</li>
